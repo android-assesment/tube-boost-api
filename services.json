@@ -2,7 +2,7 @@
   {
     "id": 46,
     "name": "YouTube Views",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -17,8 +17,8 @@
   },
   {
     "id": 165,
-    "name": "YouTube Views [Fast Speed 🚀🚀] | Min Order : 1K",
-    "label": "Trending",
+    "name": "YouTube Views [Fast Speed \ud83d\ude80\ud83d\ude80] | Min Order : 1K",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -33,8 +33,8 @@
   },
   {
     "id": 166,
-    "name": "YouTube Views [Fast Speed 🚀🚀] | Min Order : 3K",
-    "label": "Trending",
+    "name": "YouTube Views [Fast Speed \ud83d\ude80\ud83d\ude80] | Min Order : 3K",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -49,8 +49,8 @@
   },
   {
     "id": 143,
-    "name": "YouTube Views [Fast Speed 🚀🚀] | Min Order : 5K",
-    "label": "Hot",
+    "name": "YouTube Views [Fast Speed \ud83d\ude80\ud83d\ude80] | Min Order : 5K",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -65,8 +65,8 @@
   },
   {
     "id": 64,
-    "name": "YouTube Views [Fast Speed 🚀🚀] | Min Order : 10K | 🎁 Get Free 10K Reel Views",
-    "label": "Offer",
+    "name": "YouTube Views [Fast Speed \ud83d\ude80\ud83d\ude80] | Min Order : 10K | \ud83c\udf81 Get Free 10K Reel Views",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -81,8 +81,8 @@
   },
   {
     "id": 139,
-    "name": "YouTube Views [Fast Speed 🚀🚀] | Min Order : 100K",
-    "label": "Best Seller",
+    "name": "YouTube Views [Fast Speed \ud83d\ude80\ud83d\ude80] | Min Order : 100K",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -97,8 +97,8 @@
   },
   {
     "id": 97,
-    "name": "YouTube Views [Ultra Fast Speed 🚀] | Min Order : 500K",
-    "label": "Hot",
+    "name": "YouTube Views [Ultra Fast Speed \ud83d\ude80] | Min Order : 500K",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -113,8 +113,8 @@
   },
   {
     "id": 109,
-    "name": "YouTube Views [Cheapest & Fastest 🚀] | Min Order : 1 Million",
-    "label": "Best Value",
+    "name": "YouTube Views [Cheapest & Fastest \ud83d\ude80] | Min Order : 1 Million",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -130,7 +130,7 @@
   {
     "id": 76,
     "name": "YouTube Indian Views | Min Order : 10K",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -146,7 +146,7 @@
   {
     "id": 161,
     "name": "YouTube Views + Bonus Likes & Shares | Min Order : 1K",
-    "label": "Offer",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Views",
@@ -162,7 +162,7 @@
   {
     "id": 124,
     "name": "YouTube Watch Time | For 2 Min+ Video",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime",
@@ -178,7 +178,7 @@
   {
     "id": 44,
     "name": "YouTube Watch Time | For 5 Min+ Video",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime",
@@ -194,7 +194,7 @@
   {
     "id": 164,
     "name": "YouTube Watch Time | For 8 Min+ Video",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime",
@@ -210,7 +210,7 @@
   {
     "id": 43,
     "name": "YouTube Watch Time | For 15 Min+ Video",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime",
@@ -226,7 +226,7 @@
   {
     "id": 110,
     "name": "YouTube Watch Time | For 30 Min+ Video",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime",
@@ -242,7 +242,7 @@
   {
     "id": 132,
     "name": "YouTube Watch Time | For 60 Min+ Video",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime",
@@ -258,7 +258,7 @@
   {
     "id": 163,
     "name": "YouTube Watch Time | For 5 to 20 Min Video",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime",
@@ -290,7 +290,7 @@
   {
     "id": 106,
     "name": "YouTube Watch Time 4K Package | 4000 Watch Hours",
-    "label": "Best Seller",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime Premium",
@@ -306,7 +306,7 @@
   {
     "id": 147,
     "name": "YouTube Watch Time | For 60 Min+ Video",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Watchtime Premium",
@@ -322,7 +322,7 @@
   {
     "id": 138,
     "name": "YouTube Subscribers [Basic]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Subscribers",
@@ -337,7 +337,7 @@
   },
   {
     "id": 4,
-    "name": "YouTube Subscribers [High Quality] | 100 Subs @ ₹369 Only!",
+    "name": "YouTube Subscribers [High Quality] | 100 Subs @ \u20b9369 Only!",
     "label": "Best Seller",
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
@@ -353,8 +353,8 @@
   },
   {
     "id": 134,
-    "name": "YouTube Subscribers [Premium Quality] | 100 Subs @ ₹549 Only! + Free Reel Views",
-    "label": "Offer",
+    "name": "YouTube Subscribers [Premium Quality] | 100 Subs @ \u20b9549 Only! + Free Reel Views",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Subscribers",
@@ -402,7 +402,7 @@
   {
     "id": 75,
     "name": "YouTube Indian Likes",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Likes",
@@ -418,7 +418,7 @@
   {
     "id": 158,
     "name": "YouTube Likes + Bonus Shares & Comments",
-    "label": "Offer",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Likes",
@@ -434,7 +434,7 @@
   {
     "id": 162,
     "name": "YouTube Random Comments [For Video + Shorts]",
-    "label": "New",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Comments",
@@ -450,7 +450,7 @@
   {
     "id": 82,
     "name": "YouTube Random Comments [English Comments]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Comments",
@@ -466,7 +466,7 @@
   {
     "id": 83,
     "name": "YouTube Random Comments [Hindi Comments]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Comments",
@@ -481,8 +481,8 @@
   },
   {
     "id": 84,
-    "name": "YouTube Positive Emoji Comments [👍😍💯🔥😊🌹🌻🌸💜✌️🥰]",
-    "label": "New",
+    "name": "YouTube Positive Emoji Comments [\ud83d\udc4d\ud83d\ude0d\ud83d\udcaf\ud83d\udd25\ud83d\ude0a\ud83c\udf39\ud83c\udf3b\ud83c\udf38\ud83d\udc9c\u270c\ufe0f\ud83e\udd70]",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Comments",
@@ -498,7 +498,7 @@
   {
     "id": 68,
     "name": "YouTube Live Stream Views [Stay 15 min] [Instant Start]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Live Stream",
@@ -530,7 +530,7 @@
   {
     "id": 70,
     "name": "YouTube Live Stream Views [Stay 60 min] [Instant Start]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Live Stream",
@@ -546,7 +546,7 @@
   {
     "id": 71,
     "name": "YouTube Live Stream Views [Stay 90 min] [Instant Start]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Live Stream",
@@ -562,7 +562,7 @@
   {
     "id": 72,
     "name": "YouTube Live Stream Views [Stay 2 Hours] [Instant Start]",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Live Stream",
@@ -578,7 +578,7 @@
   {
     "id": 73,
     "name": "YouTube Live Stream Views [Stay 3 Hours] [Instant Start]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Live Stream",
@@ -594,7 +594,7 @@
   {
     "id": 141,
     "name": "YouTube Community Post Likes",
-    "label": "New",
+    "label": null,
     "parentCategory": "YouTube",
     "parentCategoryIcon": "https://i.ibb.co/vY42Y78/Group-2.png",
     "category": "YT Community Likes",
@@ -642,7 +642,7 @@
   {
     "id": 103,
     "name": "Instagram Followers [Basic]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Followers",
@@ -657,7 +657,7 @@
   },
   {
     "id": 65,
-    "name": "Instagram Followers [High Quality] ⭐ (Recommended)",
+    "name": "Instagram Followers [High Quality] \u2b50 (Recommended)",
     "label": "Best Seller",
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
@@ -674,7 +674,7 @@
   {
     "id": 17,
     "name": "Instagram Followers [Premium Quality]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Followers",
@@ -690,7 +690,7 @@
   {
     "id": 104,
     "name": "Real Indian Followers [Basic]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Followers",
@@ -705,8 +705,8 @@
   },
   {
     "id": 23,
-    "name": "Real Indian Followers [Premium Quality] ⭐ (Recommended)",
-    "label": "Best Seller",
+    "name": "Real Indian Followers [Premium Quality] \u2b50 (Recommended)",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Followers",
@@ -722,7 +722,7 @@
   {
     "id": 152,
     "name": "Instagram Followers [100K Followers Pack]",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Followers",
@@ -738,7 +738,7 @@
   {
     "id": 81,
     "name": "Reel Views",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Reel Views",
@@ -770,7 +770,7 @@
   {
     "id": 159,
     "name": "Reel Views + Bonus Likes & Comments",
-    "label": "Offer",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Reel Views",
@@ -785,8 +785,8 @@
   },
   {
     "id": 112,
-    "name": "Bulk Reel Views (Last 10 Reels) – Enter Account URL",
-    "label": "New",
+    "name": "Bulk Reel Views (Last 10 Reels) \u2013 Enter Account URL",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Multi Reel Views",
@@ -801,8 +801,8 @@
   },
   {
     "id": 114,
-    "name": "Bulk Reel Views (Last 20 Reels) – Enter Account URL",
-    "label": "New",
+    "name": "Bulk Reel Views (Last 20 Reels) \u2013 Enter Account URL",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Multi Reel Views",
@@ -817,8 +817,8 @@
   },
   {
     "id": 115,
-    "name": "Bulk Reel Views (Last 30 Reels) – Enter Account URL",
-    "label": "New",
+    "name": "Bulk Reel Views (Last 30 Reels) \u2013 Enter Account URL",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Multi Reel Views",
@@ -833,8 +833,8 @@
   },
   {
     "id": 116,
-    "name": "Bulk Reel Views (Last 40 Reels) – Enter Account URL",
-    "label": "New",
+    "name": "Bulk Reel Views (Last 40 Reels) \u2013 Enter Account URL",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Multi Reel Views",
@@ -849,8 +849,8 @@
   },
   {
     "id": 117,
-    "name": "Bulk Reel Views (Last 50 Reels) – Enter Account URL",
-    "label": "New",
+    "name": "Bulk Reel Views (Last 50 Reels) \u2013 Enter Account URL",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Multi Reel Views",
@@ -865,8 +865,8 @@
   },
   {
     "id": 118,
-    "name": "Bulk Reel Views (Last 100 Reels) – Enter Account URL",
-    "label": "New",
+    "name": "Bulk Reel Views (Last 100 Reels) \u2013 Enter Account URL",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Multi Reel Views",
@@ -914,7 +914,7 @@
   {
     "id": 160,
     "name": "Indian Likes + Bonus Shares, Saves & Comments",
-    "label": "Offer",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Likes",
@@ -930,7 +930,7 @@
   {
     "id": 135,
     "name": "Instagram Random Comments [Basic]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Comments",
@@ -961,8 +961,8 @@
   },
   {
     "id": 131,
-    "name": "Instagram Emoji Random Comments [👍❤️🥰😆]",
-    "label": "New",
+    "name": "Instagram Emoji Random Comments [\ud83d\udc4d\u2764\ufe0f\ud83e\udd70\ud83d\ude06]",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Comments",
@@ -978,7 +978,7 @@
   {
     "id": 22,
     "name": "Instagram Story Views",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Story Views",
@@ -1026,7 +1026,7 @@
   {
     "id": 154,
     "name": "Instagram Live Video Views [Valid for All Streams] [30 Minutes]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Live Stream",
@@ -1042,7 +1042,7 @@
   {
     "id": 155,
     "name": "Instagram Live Video Views [Valid for All Streams] [60 Minutes]",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "Instagram",
     "parentCategoryIcon": "https://i.ibb.co/r5yQjtq/Group-3.png",
     "category": "Instagram Live Stream",
@@ -1058,7 +1058,7 @@
   {
     "id": 28,
     "name": "Facebook Profile Followers [Worldwide]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Followers",
@@ -1074,7 +1074,7 @@
   {
     "id": 101,
     "name": "Facebook Profile Followers [Indian]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Followers",
@@ -1090,7 +1090,7 @@
   {
     "id": 29,
     "name": "Facebook Page Followers [Worldwide]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Followers",
@@ -1106,7 +1106,7 @@
   {
     "id": 102,
     "name": "Facebook Page Followers [Indian]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Followers",
@@ -1122,7 +1122,7 @@
   {
     "id": 53,
     "name": "Facebook Page Likes + Followers",
-    "label": "Best Seller",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Followers",
@@ -1138,7 +1138,7 @@
   {
     "id": 47,
     "name": "Facebook Page Likes",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Likes",
@@ -1169,8 +1169,8 @@
   },
   {
     "id": 122,
-    "name": "Facebook Post Reactions [👍❤️🥰😆]",
-    "label": "New",
+    "name": "Facebook Post Reactions [\ud83d\udc4d\u2764\ufe0f\ud83e\udd70\ud83d\ude06]",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Likes",
@@ -1186,7 +1186,7 @@
   {
     "id": 42,
     "name": "Facebook 60K Minutes | Monetization | 3 Hours Video",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Monetization",
@@ -1202,7 +1202,7 @@
   {
     "id": 41,
     "name": "Facebook 60K Minutes | Monetization | 2 Hours Video",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Monetization",
@@ -1218,7 +1218,7 @@
   {
     "id": 40,
     "name": "Facebook 60K Minutes | Monetization | 1 Hours Video",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Monetization",
@@ -1266,7 +1266,7 @@
   {
     "id": 87,
     "name": "Facebook Indian Comments",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Comments",
@@ -1282,7 +1282,7 @@
   {
     "id": 125,
     "name": "Facebook Live Stream Views [Stay 15 min] [Instant Start]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Live Stream",
@@ -1298,7 +1298,7 @@
   {
     "id": 126,
     "name": "Facebook Live Stream Views [Stay 30 min] [Instant Start]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Live Stream",
@@ -1314,7 +1314,7 @@
   {
     "id": 127,
     "name": "Facebook Live Stream Views [Stay 60 min] [Instant Start]",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Live Stream",
@@ -1330,7 +1330,7 @@
   {
     "id": 128,
     "name": "Facebook Live Stream Views [Stay 90 min] [Instant Start]",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Facebook",
     "parentCategoryIcon": "https://i.ibb.co/546HRxZ/facebook-1.png",
     "category": "Facebook Live Stream",
@@ -1362,7 +1362,7 @@
   {
     "id": 77,
     "name": "Telegram Channel / Group Members",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Telegram",
     "parentCategoryIcon": "https://i.ibb.co/TWFm5vL/output-onlinepngtools.png",
     "category": "Telegram Members",
@@ -1377,8 +1377,8 @@
   },
   {
     "id": 133,
-    "name": "Telegram Channel / Group Members [from India 🇮🇳]",
-    "label": "Trending",
+    "name": "Telegram Channel / Group Members [from India \ud83c\uddee\ud83c\uddf3]",
+    "label": null,
     "parentCategory": "Telegram",
     "parentCategoryIcon": "https://i.ibb.co/TWFm5vL/output-onlinepngtools.png",
     "category": "Telegram Members",
@@ -1393,8 +1393,8 @@
   },
   {
     "id": 78,
-    "name": "Mix Positive Reactions [👍❤️🔥🎉😁]",
-    "label": "New",
+    "name": "Mix Positive Reactions [\ud83d\udc4d\u2764\ufe0f\ud83d\udd25\ud83c\udf89\ud83d\ude01]",
+    "label": null,
     "parentCategory": "Telegram",
     "parentCategoryIcon": "https://i.ibb.co/TWFm5vL/output-onlinepngtools.png",
     "category": "Telegram Reactions",
@@ -1426,7 +1426,7 @@
   {
     "id": 80,
     "name": "Telegram Post Views [Last 5 Post]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Telegram",
     "parentCategoryIcon": "https://i.ibb.co/TWFm5vL/output-onlinepngtools.png",
     "category": "Telegram Views",
@@ -1441,8 +1441,8 @@
   },
   {
     "id": 57,
-    "name": "Canva Pro for Lifetime @ ₹149 Only! (Limited time offer)",
-    "label": "Limited Offer",
+    "name": "Canva Pro for Lifetime @ \u20b9149 Only! (Limited time offer)",
+    "label": null,
     "parentCategory": "Canva Pro",
     "parentCategoryIcon": "https://i.ibb.co/G7QR7WG/canva-pro.png",
     "category": "Canva Pro",
@@ -1458,7 +1458,7 @@
   {
     "id": 59,
     "name": "Google Drive 100 GB Lifetime Storage",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "Must Have Tools",
     "parentCategoryIcon": "https://i.postimg.cc/C5dFmCKs/app-development.png",
     "category": "Google Drive Storage",
@@ -1490,7 +1490,7 @@
   {
     "id": 145,
     "name": "Twitter Followers [Premium Quality]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Twitter",
     "parentCategoryIcon": "https://i.ibb.co/BjQWtkm/twitter.png",
     "category": "Twitter Followers",
@@ -1506,7 +1506,7 @@
   {
     "id": 54,
     "name": "Twitter Likes",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Twitter",
     "parentCategoryIcon": "https://i.ibb.co/BjQWtkm/twitter.png",
     "category": "Twitter Likes",
@@ -1538,7 +1538,7 @@
   {
     "id": 95,
     "name": "LinkedIn Connections",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "LinkedIn",
     "parentCategoryIcon": "https://i.ibb.co/xjZBVm2/linkedin.png",
     "category": "LinkedIn Services",
@@ -1554,7 +1554,7 @@
   {
     "id": 88,
     "name": "LinkedIn Post Likes",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "LinkedIn",
     "parentCategoryIcon": "https://i.ibb.co/xjZBVm2/linkedin.png",
     "category": "LinkedIn Services",
@@ -1570,7 +1570,7 @@
   {
     "id": 89,
     "name": "LinkedIn Random Post Comments",
-    "label": "New",
+    "label": null,
     "parentCategory": "LinkedIn",
     "parentCategoryIcon": "https://i.ibb.co/xjZBVm2/linkedin.png",
     "category": "LinkedIn Services",
@@ -1602,7 +1602,7 @@
   {
     "id": 91,
     "name": "WhatsApp Channel Members [USA]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "WhatsApp",
     "parentCategoryIcon": "https://i.ibb.co/y4crQv9/whatsapp-2.png",
     "category": "Channel Members",
@@ -1633,8 +1633,8 @@
   },
   {
     "id": 94,
-    "name": "Whatsapp Channel Post Reaction | Random 👍❤️🔥🎉 😁",
-    "label": "New",
+    "name": "Whatsapp Channel Post Reaction | Random \ud83d\udc4d\u2764\ufe0f\ud83d\udd25\ud83c\udf89 \ud83d\ude01",
+    "label": null,
     "parentCategory": "WhatsApp",
     "parentCategoryIcon": "https://i.ibb.co/y4crQv9/whatsapp-2.png",
     "category": "Post Reaction",
@@ -1650,7 +1650,7 @@
   {
     "id": 52,
     "name": "Spotify Followers",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Spotify",
     "parentCategoryIcon": "https://i.ibb.co/h8sRj1x/spotify.png",
     "category": "Spotify",
@@ -1666,7 +1666,7 @@
   {
     "id": 146,
     "name": "Spotify Followers [from India]",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Spotify",
     "parentCategoryIcon": "https://i.ibb.co/h8sRj1x/spotify.png",
     "category": "Spotify",
@@ -1682,7 +1682,7 @@
   {
     "id": 121,
     "name": "Spotify Premium Followers [from USA]",
-    "label": "Best Value",
+    "label": null,
     "parentCategory": "Spotify",
     "parentCategoryIcon": "https://i.ibb.co/h8sRj1x/spotify.png",
     "category": "Spotify",
@@ -1698,7 +1698,7 @@
   {
     "id": 48,
     "name": "Spotify Free Plays",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Spotify",
     "parentCategoryIcon": "https://i.ibb.co/h8sRj1x/spotify.png",
     "category": "Spotify",
@@ -1714,7 +1714,7 @@
   {
     "id": 49,
     "name": "Spotify Premium Plays",
-    "label": "Trending",
+    "label": null,
     "parentCategory": "Spotify",
     "parentCategoryIcon": "https://i.ibb.co/h8sRj1x/spotify.png",
     "category": "Spotify",
@@ -1730,7 +1730,7 @@
   {
     "id": 50,
     "name": "Spotify Podcast Plays",
-    "label": "New",
+    "label": null,
     "parentCategory": "Spotify",
     "parentCategoryIcon": "https://i.ibb.co/h8sRj1x/spotify.png",
     "category": "Spotify",
@@ -1746,7 +1746,7 @@
   {
     "id": 51,
     "name": "Spotify Saves | Track & Album",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Spotify",
     "parentCategoryIcon": "https://i.ibb.co/h8sRj1x/spotify.png",
     "category": "Spotify",
@@ -1762,7 +1762,7 @@
   {
     "id": 26,
     "name": "Threads Followers",
-    "label": "New",
+    "label": null,
     "parentCategory": "Threads",
     "parentCategoryIcon": "https://i.ibb.co/Bs7ZPrh/threads-by-instagram-logo-20008-C5295-seeklogo-com.png",
     "category": "Threads Followers",
@@ -1778,7 +1778,7 @@
   {
     "id": 27,
     "name": "Threads Likes",
-    "label": "New",
+    "label": null,
     "parentCategory": "Threads",
     "parentCategoryIcon": "https://i.ibb.co/Bs7ZPrh/threads-by-instagram-logo-20008-C5295-seeklogo-com.png",
     "category": "Threads Likes",
@@ -1794,7 +1794,7 @@
   {
     "id": 93,
     "name": "Website Traffic From Worldwide",
-    "label": "Hot",
+    "label": null,
     "parentCategory": "Website Traffic",
     "parentCategoryIcon": "https://cdn.mypanel.link/sk4dog/hnyfk5n0scfthfdu.png",
     "category": "Website Traffic",
