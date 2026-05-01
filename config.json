@@ -1,0 +1,302 @@
+{
+  "whatsapp": {
+    "isEnabled": true,
+    "link": "https://whatsapp.com/channel/0029Vb6LtvFJ93wZjMJaAc3h",
+    "content": "Join us on WhatsApp"
+  },
+  "appDemo": {
+    "clickUrl": "https://www.youtube.com/watch?v=7_piAhS0GKw",
+    "isEnabled": true,
+    "title": "How to place order? | ऑर्डर कैसे लगाएं? वीडियो देखें"
+  },
+  "manualPaymentConfig": {
+    "pointsPageContent": "💰Get an Extra 10% Bonus – Tap Here!👆",
+    "isEnabled": true,
+    "isPaymentPageUrlExternal": true,
+    "paymentPageURL": "https://webpage.tubeboostweb.com/manual-payment.html",
+    "minTotalPoints": 1
+  },
+  "paytmData": {
+    "pointsList": [
+      {
+        "points": 100,
+        "price": 99
+      },
+      {
+        "points": 200,
+        "price": 199
+      },
+      {
+        "points": 500,
+        "price": 499
+      },
+      {
+        "points": 1000,
+        "price": 999
+      },
+      {
+        "points": 2000,
+        "price": 1999
+      },
+      {
+        "points": 5000,
+        "price": 4999
+      },
+      {
+        "points": 10000,
+        "price": 9999
+      },
+      {
+        "points": 20000,
+        "price": 19999
+      }
+    ],
+    "isEnabled": true,
+    "mid": "zomsNZ69103695781960"
+  },
+  "customerTypeEnabled": true,
+  "customerTypeRange": [
+    {
+      "start": 0,
+      "end": 99,
+      "name": "Level 1",
+      "subtitle": "You haven't purchased any points",
+      "benefits": [
+        "✅ 24x7 Customer Support on email",
+        "✅ 2000+ Viral Shorts & Reel Bundle Videos"
+      ],
+      "claimUrl": "https://tinyurl.com/TB-Level-1",
+      "isClaimUrlExternal": true
+    },
+    {
+      "start": 100,
+      "end": 499,
+      "name": "Level 2",
+      "subtitle": "You have purchased more than",
+      "benefits": [
+        "✅ All benefits up to Level 1",
+        "✅ 24x7 WhatsApp Support",
+        "✅ Truecaller Premium worth ₹899/year, free for a lifetime",
+        "✅ Best Video Editing Apps: Get Filmora & VN Editor Premium worth ₹2,600 for free",
+        "✅ Sky VPN Premium worth ₹2,950/year for free",
+        "✅ Free Book: \"YouTube Channels For Dummies\""
+      ],
+      "claimUrl": "https://tinyurl.com/TB-App-Level-2",
+      "isClaimUrlExternal": true
+    },
+    {
+      "start": 500,
+      "end": 1999,
+      "name": "Level 3",
+      "subtitle": "You have purchased more than",
+      "benefits": [
+        "✅ All benefits up to Level 2",
+        "✅ Get 50 Bonus Points",
+        "✅ Spotify Premium worth ₹699/year, for free",
+        "✅ Free Book: \"30 Days to a Better YouTube Channel: A Practical Guide to Grow Your YouTube Channel in Just One Month\""
+      ],
+      "claimUrl": "https://tinyurl.com/TB-App-Level-3",
+      "isClaimUrlExternal": true
+    },
+    {
+      "start": 2000,
+      "end": 4999,
+      "name": "Level 4",
+      "subtitle": "You have purchased more than",
+      "benefits": [
+        "✅ All benefits up to Level 3",
+        "✅ Get 200 Bonus Points",
+        "✅ Priority Support: Get your query resolved within 24 hours",
+        "✅ PicsArt Ai Image Editor Premium worth ₹649/year, for free",
+        "✅ Viral Hooks for Reels/Shorts, for free",
+        "✅ Free Book: \"Vlog Like a Boss: How to Kill It Online with Video Blogging\""
+      ],
+      "claimUrl": "https://tinyurl.com/TB-App-Level-4",
+      "isClaimUrlExternal": true
+    },
+    {
+      "start": 5000,
+      "end": 9999,
+      "name": "Level 5",
+      "subtitle": "You have purchased more than",
+      "benefits": [
+        "✅ All benefits up to Level 4",
+        "✅ Get 500 Bonus Points",
+        "✅ Priority Support: Get your query resolved within 16 hours",
+        "✅ Google Drive 100 GB Lifetime Storage",
+        "✅ KineMaster Pro Video Editor worth ₹3,795/year, for free",
+        "✅ Free Book: \"Tube Ritual: Jumpstart Your Journey to 5,000 YouTube Subscribers\""
+      ],
+      "claimUrl": "https://tinyurl.com/TB-App-Level-5",
+      "isClaimUrlExternal": true
+    },
+    {
+      "start": 10000,
+      "end": 19999,
+      "name": "Level 6",
+      "subtitle": "You have purchased more than",
+      "benefits": [
+        "✅ All benefits up to Level 5",
+        "✅ Get 1000 Bonus Points",
+        "✅ Priority Support: Get your query resolved within 8 hours",
+        "✅ Canva Pro Lifetime Membership for Free!",
+        "✅ Free Book: \"YouTube Secrets: The Ultimate Guide to Growing Your Following and Making Money as a Video Influencer\""
+      ],
+      "claimUrl": "https://tinyurl.com/TB-App-Level-6",
+      "isClaimUrlExternal": true
+    },
+    {
+      "start": 20000,
+      "end": 49999,
+      "name": "Level 7",
+      "subtitle": "You have purchased more than",
+      "benefits": [
+        "✅ All benefits up to Level 6",
+        "✅ Get 2000 Bonus Points",
+        "✅ Priority Support: Get your query resolved within 2 hours",
+        "✅ Make Money with YouTube Shorts & ChatGPT in 2024! (Video Course) worth ₹14,999",
+        "✅ Free Book: \"Made to Stick: Why Some Ideas Survive and Others Die\""
+      ],
+      "claimUrl": "https://tinyurl.com/TB-App-Level-7",
+      "isClaimUrlExternal": true
+    },
+    {
+      "start": 50000,
+      "end": 2147483647,
+      "name": "Level 8",
+      "subtitle": "You have purchased more than",
+      "benefits": [
+        "✅ All benefits up to Level 7",
+        "✅ Get 5000 Bonus Points",
+        "✅ Support handled by the Admin",
+        "✅ Capcut Pro [Android + Windows] worth $75 yearly free for lifetime",
+        "✅ Free Book: \"One Million Followers: How I Built a Massive Social Following in 30 Days\"",
+        "✅ Free Book: \"The YouTube Formula: How Anyone Can Unlock the Algorithm to Drive Views, Build an Audience, and Grow Revenue\""
+      ],
+      "claimUrl": "https://tinyurl.com/TB-App-Level-8",
+      "isClaimUrlExternal": true
+    }
+  ],
+  "razorpayConfig": {
+    "image": "https://i.ibb.co/Yt8ThK7/XXHDPI-2.png",
+    "themeColor": "",
+    "clientKey": "rzp_live_uAsM8ynp7MNdio",
+    "appName": "Tube Boost",
+    "description": "Payment for Tube Boost",
+    "clientSecret": "wUxSyo6PaZnq0W2SgxvAmMgz",
+    "mobNumber": ""
+  },
+  "allInOneAppConfig": {
+    "featuredServices": "YouTube",
+    "isParentServiceOnTop": false,
+    "isParentServiceEnabled": true,
+    "isToolsEnabled": true
+  },
+  "faq": "https://sites.google.com/view/tboost20/home",
+  "bListedEmail": [
+    "playstorecnx131@gmail.com"
+  ],
+  "isCrashEnabled": true,
+  "supportEnabled": true,
+  "accountTypeRange": [
+    {
+      "start": 0,
+      "end": 0,
+      "name": "N"
+    },
+    {
+      "start": 1,
+      "end": 500,
+      "name": "J"
+    },
+    {
+      "start": 501,
+      "end": 1000,
+      "name": "F"
+    },
+    {
+      "start": 1001,
+      "end": 5000,
+      "name": "E"
+    },
+    {
+      "start": 5001,
+      "end": 10000,
+      "name": "V"
+    },
+    {
+      "start": 10001,
+      "end": 2147483647,
+      "name": "M"
+    }
+  ],
+  "unpaidSupport": {
+    "isEnabled": true,
+    "dialogMessage": "How would you like to receive support?",
+    "link": "https://wa.me/918739028389?text=Hello%20Tube%20Boost%20team%2C%20I'm%20a%20new%20user%20and%20need%20help%20getting%20started.%20Please%20guide%20me.",
+    "dialogTitle": "Tube Boost Support"
+  },
+  "psBypass": {
+    "reviewAppList": [50000, 50024, 30016],
+    "bListedEmailList": [
+      "playstorecnx131@gmail.com",
+      "cnxplay1992@gmail.com"
+    ]
+  },
+  "forceUpgradeAppVersions": "1.0",
+  "contactEmails": [
+    "admin@tubeboostapp.com"
+  ],
+  "tncUrl": "https://sites.google.com/view/tube-boost-tnc/home",
+  "shareApp": {
+    "message": "Grow your YouTube channel. Increase Subscribers, views, likes, and engagement. Affordable pricing, easy-to-use platform. Try it now!\n\nhttps://play.google.com/store/apps/details?id=get.subscribers.views.watchtime&referrer=utm_source%3Dshareapp"
+  },
+  "imageSlider": {
+    "urls": [
+      {
+        "imgUrl": "https://storage.perfectcdn.com/sk4dog/1um7h50oofyb3a2b.png",
+        "clickUrl": "https://www.youtube.com/watch?v=7_piAhS0GKw",
+        "clickEvent": "E_TB_Tutorial"
+      },
+      {
+        "imgUrl": "https://storage.perfectcdn.com/sk4dog/1niunwgrzmhoz1yl.jpeg",
+        "clickUrl": "http://play.google.com/store/apps/details?id=streamloop.live&referrer=utm_source=tubeboostbanner",
+        "clickEvent": "E_StreamLoop"
+      },
+      {
+        "imgUrl": "https://storage.perfectcdn.com/sk4dog/ck5wy3pcayp8a4zs.jpeg",
+        "clickUrl": "https://tinyurl.com/yt-extractor",
+        "clickEvent": "E_YT_Extractor_Web"
+      },
+      {
+        "imgUrl": "https://storage.perfectcdn.com/sk4dog/fctdwcjpj83wohcd.jpg",
+        "clickUrl": "https://webpage.tubeboostweb.com/manual-payment.html",
+        "clickEvent": "E_Manual_Payment"
+      }
+    ],
+    "isEnabled": true
+  },
+  "privacyPolicyUrl": "https://sites.google.com/view/tube-boost-tnc/home",
+  "paymentChannel": "PAYTM",
+  "whatsappSupport": {
+    "waNumber": "+919919946569",
+    "isEnabled": true,
+    "dialogMessage": "How would you like to receive support?",
+    "dialogTitle": "Tube Boost Support"
+  },
+  "systemStatus": {
+    "underMaintenance": false,
+    "underMaintenanceMsg": "Will be back live in few hours"
+  },
+  "paymentChannelV2": "PAYTM",
+  "referAndEarnConfig": {
+    "shareContent": "Grow your YouTube channel. Increase subscribers, watch time, views, likes & engagement. Affordable pricing, easy-to-use platform. Try it now!.",
+    "featureName": "Refer & Earn",
+    "referralPercentage": 15,
+    "isEnabled": true,
+    "withdrawContent": "Hey, I would like to redeem my referral earnings.",
+    "paymentThreshold": 500
+  },
+  "vidIqApiKey": "Bearer UKP!eb3b3576-f6ab-49bc-bcdc-90b339088a0d!ff3db646-2709-403a-91b6-bfb2b1fc7041",
+  "isNewUiEnabled" : false
+}
