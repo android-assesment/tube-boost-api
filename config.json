@@ -298,5 +298,5 @@
     "paymentThreshold": 500
   },
   "vidIqApiKey": "Bearer UKP!eb3b3576-f6ab-49bc-bcdc-90b339088a0d!ff3db646-2709-403a-91b6-bfb2b1fc7041",
-  "isNewUiEnabled" : false
+  "isNewUiEnabled" : true
 }
